@@ -5,4 +5,6 @@ Resources:
   Test3:
     Type: 'AWS::S3::Bucket'
   Test4:
-    Type: 'AWS::S3::Bucket'  
+    Type: 'AWS::S3::Bucket'
+  Test5:
+    Type: 'AWS::S3::Bucket'
