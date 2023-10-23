@@ -3,4 +3,3 @@ parameters: {}
 tags:
   env: gamma
   devtest: '1'
-  NewTag: updateFromStackDirectly
