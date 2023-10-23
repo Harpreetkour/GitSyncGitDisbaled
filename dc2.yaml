@@ -1,0 +1,5 @@
+template-file-path: s3.yml
+parameters: {}
+tags:
+  devtest: '1'
+  env: gamma
